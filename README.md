@@ -14,5 +14,8 @@ Pages created-
 3)About
 4)Courses
 5)Contact
+
+
+
 Thankyou!
 
